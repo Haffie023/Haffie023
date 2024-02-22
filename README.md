@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haffie023
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning cloud/data engineering @CIL,web development @Ajira Digital and Software Engineering @Holberton school;ALX.
+- 🌱 I’m currently learning cloud engineering @CIL Academy,web development @SheCodes and Software Engineering @Holberton school;ALX.
 - 💞️ I’m looking to collaborate on any projects that will challenge and grow my skills.
 - 📫 How to reach me: on email "joyce.muchoki@gmail.com"
 
