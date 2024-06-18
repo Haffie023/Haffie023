@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Haffie023
-- 👀 I’m interested in all things tech
-- 🌱 I’m currently learning cloud engineering @CIL Academy,web development @SheCodes and Software Engineering @Holberton school;ALX.
-- 💞️ I’m looking to collaborate on any projects that will challenge and grow my skills.
-- 📫 How to reach me: on email "joyce.muchoki@gmail.com"
+- 👋 Hi, I’m Joyce Hafsa Muchoki,@Haffie023.
+- 👀 Interested in all things tech. currently a cloud architect intern at Lillup. 
+- 🌱 A certified cloud engineer,web developer and Software Engineer.
+- 💞️ I am passionate about cloud concepts and using cloud services to improve businesses and organisations performance and reliability.
+- 📫 How to reach me: "joyce.muchoki@gmail.com".
+- 
 
 <!---
 Haffie023/Haffie023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
